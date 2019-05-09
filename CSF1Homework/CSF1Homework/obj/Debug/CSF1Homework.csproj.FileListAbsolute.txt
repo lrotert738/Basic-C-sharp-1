@@ -1,0 +1,6 @@
+c:\users\student\documents\visual studio 2015\Projects\CSF1Homework\CSF1Homework\bin\Debug\CSF1Homework.exe.config
+C:\Users\Student\documents\visual studio 2015\Projects\CSF1Homework\CSF1Homework\bin\Debug\CSF1Homework.exe
+C:\Users\Student\documents\visual studio 2015\Projects\CSF1Homework\CSF1Homework\bin\Debug\CSF1Homework.pdb
+C:\Users\Student\documents\visual studio 2015\Projects\CSF1Homework\CSF1Homework\obj\Debug\CSF1Homework.csprojResolveAssemblyReference.cache
+C:\Users\Student\documents\visual studio 2015\Projects\CSF1Homework\CSF1Homework\obj\Debug\CSF1Homework.exe
+C:\Users\Student\documents\visual studio 2015\Projects\CSF1Homework\CSF1Homework\obj\Debug\CSF1Homework.pdb
